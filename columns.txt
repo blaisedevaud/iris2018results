@@ -1,0 +1,17 @@
+﻿The columns are:
+- name of the legal act, composed of the abbreviation of the country followed by the abbreviation of the legal act
+- creation method of the graph (tokens = set of words; stems = set of stemmed words; token pairs = set of pairs of words; stem pairs = set of pairs of stemmed words)
+- number of articles / paragraphs of the legal act
+- density of the graph
+-  minimal degree of the nodes
+- maximal degree of the nodes
+- mean degree of the nodes
+- median degree of the nodes
+-  minimal distance of the edges
+- maximal distance of the edges
+- mean distance of the edges
+- median distance of the edges
+-  minimal strength of the edges
+- maximal strength of the edges
+- mean strength of the edges
+- median strength of the edges

@@ -1,0 +1,17 @@
+﻿Spaltenbeschreibung:
+- Gesetzesname, bezeichnet mit Landesabkürzung und gefolgt von der Gesetzesabkürzung
+- Erstellungsmethode des Graphen (tokens = Menge der Wörter; stems = Menge der gestemmten Wörter; token pairs = Menge der Paare der Wörter; stem pairs = Menge der Paare der gestemmten Wörter)
+- Anzahl der Artikel / §§ des Gesetzes
+- Dichte des Graphen
+- minimaler Grad der Ecken
+- maximaler Grad der Ecken
+- mittlerer Grad der Ecken
+- medianer Grad der Ecken
+- minimale Distanz der Kanten
+- maximale Distanz der Kanten
+- mittlere Distanz der Kanten
+- mediane Distanz der Kanten
+- minimale Stärke der Kanten
+- maximale Stärke der Kanten
+- mittlere Stärke der Kanten
+- mediane Stärke der Kanten
